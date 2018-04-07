@@ -35,7 +35,6 @@ These resources are the highlights of my learning experience on a regular basis 
 
 * [The Information Weekly (subscription)](https://www.theinformation.com/)
 * [GitHub Explore Daily](https://github.com/explore)
-* 
 * [HackerNews](https://news.ycombinator.com/)
 * [The Register](https://www.theregister.co.uk/devops/)
 
