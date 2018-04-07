@@ -4,9 +4,27 @@
 
 These resources are the highlights of my learning experience on a regular basis and wanted to share with the world. This list will be changed regularly as more notable content and programs are found. For sites with RSS feeds, aggregation tools like [Feedly](feedly.com) or [Reeder](http://reederapp.com/) come in handy to have everything in one place.
 
+---
+
+##Table of Contents
+* [Newsletters](#newsletters)
+	* [Software Dev](#software-dev)
+	* [DevOps](#devops)
+	* [Security](#security)
+	* [News/Misc](#news/misc)
+* [Podcasts](#podcasts)
+	* [Software Dev](#software-dev)
+	* [DevOps](#devops)
+	* [Security](#security)
+	* [Tech/Misc](#tech/misc)
+	* [Business](#business)
+* [Videos](#videos)
+
+---
+
 ### Newsletters
 
-**Software Dev**
+#### Software Dev
 
 * [Changelog Weekly](https://changelog.com/)
 * [DailyDrip](https://www.dailydrip.com/weekly)
@@ -14,14 +32,14 @@ These resources are the highlights of my learning experience on a regular basis 
 * [Software Engineering Daily (weekly newsletter)](https://softwareengineeringdaily.com/)
 * [The Morning Paper](https://blog.acolyer.org/)
 
-**DevOps**
+#### DevOps
 
 * [DevOps'ish](https://devopsish.com/)
 * [KubeWeekly](https://kubeweekly.com/)
 * [Last Week In AWS](https://lastweekinaws.com/)
 * [WebOps Weekly](https://webopsweekly.com/)
 
-**Security**
+#### Security
 
 * [Bugtraq](http://seclists.org/bugtraq/)
 * [Debian Security Announcements](https://lists.debian.org/debian-security-announce/)
@@ -31,7 +49,7 @@ These resources are the highlights of my learning experience on a regular basis 
 * [Redhat Security Announcements](https://www.redhat.com/mailman/listinfo/rhsa-announce)
 * [Ubuntu Security Announcements](https://www.redhat.com/mailman/listinfo/rhsa-announce)
 
-**News/Misc**
+#### News/Misc
 
 * [HackerNews](https://news.ycombinator.com/)
 * [GitHub Explore Daily](https://github.com/explore)
@@ -40,24 +58,24 @@ These resources are the highlights of my learning experience on a regular basis 
 
 ### Podcasts
 
-**Software Dev**
+#### Software Dev
 
 * [Changelog (master feed)](https://overcast.fm/itunes1164554936/changelog-master-feed)
 * [Software Engineering Daily](https://overcast.fm/itunes1019576853/software-engineering-daily)
 
-**DevOps**
+#### DevOps
 
 * [PodCTL Podcast](https://blog.openshift.com/tag/podctl/)
 * [Screaming in the Cloud](https://overcast.fm/itunes1361244178/screaming-in-the-cloud)
 * [To Be Continuous](https://overcast.fm/itunes1107185328/to-be-continuous)
 
-**Security**
+#### Security
 
 * [Security Now](https://twit.tv/shows/security-now)
 * [The Secure Developer](https://overcast.fm/itunes1156317989/the-secure-developer)
 * [ThreatWire](https://www.hak5.org/shows/threatwire)
 
-**Tech/Misc**
+#### Tech/Misc
 
 * [a16z](https://overcast.fm/itunes842818711/a16z)
 * [Command Line Heroes](https://www.redhat.com/en/command-line-heroes)
@@ -67,7 +85,7 @@ These resources are the highlights of my learning experience on a regular basis 
 * [The Talk Show With John Gruber](https://overcast.fm/itunes528458508/the-talk-show-with-john-gruber)
 * [This Week in Enterprise Tech](https://twit.tv/shows/this-week-in-enterprise-tech)
 
-**Business**
+#### Business
 
 * [Back To Work](https://overcast.fm/itunes415535037/back-to-work)
 * [How I Built This with Guy Raz](https://overcast.fm/itunes1150510297/how-i-built-this-with-guy-raz)
