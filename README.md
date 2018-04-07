@@ -2,7 +2,7 @@
 
 ## Always Be Learning
 
-These resources are the highlights of my learning experience on a regular basis and wanted to share with the world. This list will be changed regularly as more notable content and programs are found. For sites with RSS feeds, aggregation tools like [Feedly](feedly.com) come in handy to have everything in one place. 
+These resources are the highlights of my learning experience on a regular basis and wanted to share with the world. This list will be changed regularly as more notable content and programs are found. For sites with RSS feeds, aggregation tools like [Feedly](feedly.com) or [Reeder](http://reederapp.com/) come in handy to have everything in one place.
 
 ---
 
@@ -41,25 +41,22 @@ These resources are the highlights of my learning experience on a regular basis 
 
 #### Security
 
-* [National Vunlerability List](https://nvd.nist.gov/#)
-* [Full Disclosure](http://seclists.org/fulldisclosure/)
 * [Bugtraq](http://seclists.org/bugtraq/)
+* [Debian Security Announcements](https://lists.debian.org/debian-security-announce/)
+* [Full Disclosure](http://seclists.org/fulldisclosure/)
+* [Kubernetes Security Announcements](https://groups.google.com/forum/#!forum/kubernetes-announce)
+* [National Vunlerability List](https://nvd.nist.gov/#)
 * [Redhat Security Announcements](https://www.redhat.com/mailman/listinfo/rhsa-announce)
 * [Ubuntu Security Announcements](https://www.redhat.com/mailman/listinfo/rhsa-announce)
-* [Debian Security Announcements](https://lists.debian.org/debian-security-announce/)
-* [Kubernetes Security Announcements](https://groups.google.com/forum/#!forum/kubernetes-announce)
 
 #### News/Misc
 
-* [The Information Weekly (subscription)](https://www.theinformation.com/)
-* [GitHub Explore Daily](https://github.com/explore)
 * [HackerNews](https://news.ycombinator.com/)
+* [GitHub Explore Daily](https://github.com/explore)
+* [The Information Weekly (subscription)](https://www.theinformation.com/)
 * [The Register](https://www.theregister.co.uk/devops/)
 
-
-
 ### Podcasts
-
 
 #### Software Dev
 
@@ -68,25 +65,25 @@ These resources are the highlights of my learning experience on a regular basis 
 
 #### DevOps
 
+* [PodCTL Podcast](https://blog.openshift.com/tag/podctl/)
 * [Screaming in the Cloud](https://overcast.fm/itunes1361244178/screaming-in-the-cloud)
 * [To Be Continuous](https://overcast.fm/itunes1107185328/to-be-continuous)
-* [PodCTL Podcast](https://blog.openshift.com/tag/podctl/)
 
 #### Security
 
-* [The Secure Developer](https://overcast.fm/itunes1156317989/the-secure-developer)
 * [Security Now](https://twit.tv/shows/security-now)
+* [The Secure Developer](https://overcast.fm/itunes1156317989/the-secure-developer)
 * [ThreatWire](https://www.hak5.org/shows/threatwire)
 
 #### Tech/Misc
 
 * [a16z](https://overcast.fm/itunes842818711/a16z)
+* [Command Line Heroes](https://www.redhat.com/en/command-line-heroes)
 * [Dan Carlin's Hardcore History](https://overcast.fm/itunes173001861/dan-carlins-hardcore-history)
+* [FLOSS Weekly](https://twit.tv/shows/floss-weekly)
 * [ShopTalk](https://overcast.fm/itunes493890455/shoptalk)
 * [The Talk Show With John Gruber](https://overcast.fm/itunes528458508/the-talk-show-with-john-gruber)
-* [Command Line Heroes](https://www.redhat.com/en/command-line-heroes)
 * [This Week in Enterprise Tech](https://twit.tv/shows/this-week-in-enterprise-tech)
-* [FLOSS Weekly](https://twit.tv/shows/floss-weekly)
 
 #### Business
 
