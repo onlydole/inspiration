@@ -4,9 +4,23 @@
 
 These resources are the highlights of my learning experience on a regular basis and wanted to share with the world. This list will be changed regularly as more notable content and programs are found. For sites with RSS feeds, aggregation tools like [Feedly](feedly.com) come in handy to have everything in one place. 
 
+##Table of Contents
+* [Newsletters](#Newsletters)
+	* [SoftwareDev](#SoftwareDev)
+	* [DevOps](#DevOps)
+	* [Security](#Security)
+	* [News/Misc](#News/Misc)
+* [Podcasts](#Podcasts)
+	* [SoftwareDev](#SoftwareDev)
+	* [DevOps](#DevOps)
+	* [Security](#Security)
+	* [Tech/Misc](#Tech/Misc)
+	* [Business](#Business)
+* [Videos](#Videos)
+
 ### Newsletters
 
-**Software Dev**
+**SoftwareDev**
 
 * [Changelog Weekly](https://changelog.com/)
 * [DailyDrip](https://www.dailydrip.com/weekly)
@@ -43,7 +57,7 @@ These resources are the highlights of my learning experience on a regular basis 
 ### Podcasts
 
 
-**Software Dev**
+**SoftwareDev**
 
 * [Changelog (master feed)](https://overcast.fm/itunes1164554936/changelog-master-feed)
 * [Software Engineering Daily](https://overcast.fm/itunes1019576853/software-engineering-daily)
@@ -53,7 +67,6 @@ These resources are the highlights of my learning experience on a regular basis 
 * [Screaming in the Cloud](https://overcast.fm/itunes1361244178/screaming-in-the-cloud)
 * [To Be Continuous](https://overcast.fm/itunes1107185328/to-be-continuous)
 * [PodCTL Podcast](https://blog.openshift.com/tag/podctl/)
-* 
 
 **Security**
 
