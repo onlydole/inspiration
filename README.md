@@ -4,24 +4,6 @@
 
 These resources are the highlights of my learning experience on a regular basis and wanted to share with the world. This list will be changed regularly as more notable content and programs are found. For sites with RSS feeds, aggregation tools like [Feedly](feedly.com) or [Reeder](http://reederapp.com/) come in handy to have everything in one place.
 
----
-
-## Table of Contents
-
-* [Newsletters](#newsletters)
-  _ [Software Dev](#software-dev)
-  _ [DevOps](#devops)
-  _ [Security](#security)
-  _ [News/Misc](#news/misc)
-* [Podcasts](#podcasts)
-  _ [Software Dev](#software-dev)
-  _ [DevOps](#devops)
-  _ [Security](#security)
-  _ [Tech/Misc](#tech/misc) \* [Business](#business)
-* [Videos](#videos)
-
----
-
 ### Newsletters
 
 #### Software Dev
