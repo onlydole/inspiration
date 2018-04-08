@@ -6,18 +6,18 @@ These resources are the highlights of my learning experience on a regular basis 
 
 ---
 
-##Table of Contents
+## Table of Contents
+
 * [Newsletters](#newsletters)
-	* [Software Dev](#software-dev)
-	* [DevOps](#devops)
-	* [Security](#security)
-	* [News/Misc](#news/misc)
+  _ [Software Dev](#software-dev)
+  _ [DevOps](#devops)
+  _ [Security](#security)
+  _ [News/Misc](#news/misc)
 * [Podcasts](#podcasts)
-	* [Software Dev](#software-dev)
-	* [DevOps](#devops)
-	* [Security](#security)
-	* [Tech/Misc](#tech/misc)
-	* [Business](#business)
+  _ [Software Dev](#software-dev)
+  _ [DevOps](#devops)
+  _ [Security](#security)
+  _ [Tech/Misc](#tech/misc) \* [Business](#business)
 * [Videos](#videos)
 
 ---
